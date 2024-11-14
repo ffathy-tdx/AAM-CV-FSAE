@@ -32,3 +32,11 @@ Both scripts rely on Python’s `os` module to navigate through directories and 
    ```bash
    python remove_class.py
    python count_class.py
+3. The output will display any updates or warnings related to label adjustments.
+
+## Contributing
+
+Contributions to this project are welcome. If you encounter any issues or have suggestions for improvements, please submit an issue or create a pull request.
+
+For further questions, please contact me at [ffathy2004@gmail.com](mailto:ffathy2004@gmail.com)). 
+
