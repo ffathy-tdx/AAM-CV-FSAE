@@ -1,4 +1,4 @@
-# AAM_CV_FSAE Project
+# AAM_CV_FSAE Development
 
 This repository contains scripts for managing and preparing the FSOCO dataset used in the Computer Vision develpment for FSAE competitions. These scripts support dataset optimization and label integrity for better object detection model performance.
 
